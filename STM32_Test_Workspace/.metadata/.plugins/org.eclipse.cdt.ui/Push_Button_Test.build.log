@@ -1,0 +1,10 @@
+22:21:42 **** Build of configuration Debug for project Push_Button_Test ****
+make -j4 all 
+arm-none-eabi-size  Push_Button_Test.elf 
+   text	   data	    bss	    dec	    hex	filename
+   7744	     12	   1644	   9400	   24b8	Push_Button_Test.elf
+Finished building: default.size.stdout
+ 
+
+22:21:42 Build Finished. 0 errors, 0 warnings. (took 518ms)
+

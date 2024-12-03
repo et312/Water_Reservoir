@@ -1,0 +1,9 @@
+../Core/Src/main.c:83:6:HCSR04_TRIG_PULSE	2
+../Core/Src/main.c:75:5:main	2
+../Core/Src/main.c:153:6:SystemClock_Config	3
+../Core/Src/main.c:195:13:MX_TIM10_Init	4
+../Core/Src/main.c:240:13:MX_USART2_UART_Init	2
+../Core/Src/main.c:273:13:MX_USART6_UART_Init	2
+../Core/Src/main.c:306:13:MX_GPIO_Init	1
+../Core/Src/main.c:349:6:HAL_TIM_IC_CaptureCallback	4
+../Core/Src/main.c:369:6:Error_Handler	1
